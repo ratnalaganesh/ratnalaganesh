@@ -64,7 +64,7 @@ I am a Computer Engineering (AI) graduate with a strong foundation in Python, Ma
   * Incorporates real-time schema-aware autocompletion and a dual-routing shell that executes direct SQL technically or serves conversational explanations without database technical jargon.
   * *Tools*: Python, LangChain, Google Gemini API, OpenAI API, spaCy, prompt-toolkit, Rich, SQL, JSON, Git.
 
-* **[Food Wastage Prediction & Redistribution System](https://github.com/ratnalaganesh/)**  
+* **[Food Wastage Prediction & Redistribution System](https://github.com/ratnalaganesh/Food_Wastage_Prediction_And_Redistribution-)**  
   *Created a predictive ML model on operational structured datasets to optimize redistribution logistics.*
   * Designed data workflows covering data ingestion, labeling, and feature engineering.
   * Coded automation scripts for agent assignment and geo-tracking utilizing a MongoDB backend.
