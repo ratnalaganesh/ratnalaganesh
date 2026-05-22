@@ -64,7 +64,7 @@ I am a Computer Engineering (AI) graduate with a strong foundation in Python, Ma
   * Incorporates real-time schema-aware autocompletion and a dual-routing shell that executes direct SQL technically or serves conversational explanations without database technical jargon.
   * *Tools*: Python, LangChain, Google Gemini API, OpenAI API, spaCy, prompt-toolkit, Rich, SQL, JSON, Git.
 
-* **Food Wastage Prediction & Redistribution System**  
+* **[Food Wastage Prediction & Redistribution System](https://github.com/ratnalaganesh/)**  
   *Created a predictive ML model on operational structured datasets to optimize redistribution logistics.*
   * Designed data workflows covering data ingestion, labeling, and feature engineering.
   * Coded automation scripts for agent assignment and geo-tracking utilizing a MongoDB backend.
@@ -80,7 +80,7 @@ I am a Computer Engineering (AI) graduate with a strong foundation in Python, Ma
 ## 🎓 Education
 
 * **B.Tech in Computer Engineering (AI)**  
-  *Ganpat University, U.V. Patel College of Engineering* | **CGPA: 6.84 / 10** (2022 – 2026)
+  *Ganpat University, U.V. Patel College of Engineering* | **CGPA: 7.08 / 10** (2022 – 2026)
 * **12th Standard**  
   *Arka Educational Institutions* | **Score: 82%** (2020 – 2022)
 * **10th Grade**  
@@ -102,8 +102,7 @@ I am a Computer Engineering (AI) graduate with a strong foundation in Python, Ma
 
 [![Ganesh's Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=ratnalaganesh&theme=react-dark&hide_border=true&area=true)](https://github.com/ratnalaganesh)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnalaganesh&layout=compact&theme=tokyonight)](https://github.com/ratnalaganesh)
-[![Ganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratnalaganesh&show_icons=true&theme=tokyonight)](https://github.com/ratnalaganesh)
+
 
 ---
 
@@ -112,7 +111,7 @@ I am a Computer Engineering (AI) graduate with a strong foundation in Python, Ma
 * ✉️ **Email**: [ganeshratnala2004@gmail.com](mailto:ganeshratnala2004@gmail.com)
 * 🐱 **GitHub**: [github.com/ratnalaganesh](https://github.com/ratnalaganesh)
 * 📊 **Kaggle**: [kaggle.com/ratnalaganesh](https://kaggle.com/ratnalaganesh)
-* 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com) *(Update this link!)*
+* 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ganesh-girilal-ayyappa-kumar-ratnala)
 
 ---
 ⭐ From [Ganesh Ratnala](https://github.com/ratnalaganesh)
